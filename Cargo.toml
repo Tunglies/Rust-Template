@@ -1,0 +1,11 @@
+[package]
+name = "rust-template"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A Rust project template with CI for quality and format checks"
+license = "MIT"
+
+[dependencies]
+
+[dev-dependencies]
